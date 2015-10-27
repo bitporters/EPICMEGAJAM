@@ -22,12 +22,3 @@ left shift - run
 
 alt-enter - switch between windowed/full screen
 
----------------------------- 
-Dedicated servers
----------------------------- 
-
-Server browser was not completed in time for submission.  Direct IP connections are the only way to join a game.  Your game clients can host games but we will have a dedicated server running for a few weeks.  Please have port 7777 open if you are hosting a game for your friends over the internet.
-
-52.89.78.164 <- directly connect to this IP
-
-please check - http://bitporters.net/jamservers.html if the above IP doesnt work - we will list new IPs here.
